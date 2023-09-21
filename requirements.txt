@@ -1,0 +1,7 @@
+pandas
+opencv-python
+albumentations
+tqdm
+pycocotools
+tensorboard
+pytorch-metric-learning
